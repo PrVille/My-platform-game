@@ -1,6 +1,8 @@
   <h1>
     <a href="https://prville.github.io/My-platform-game/">👾 My-platform-game</a>
   </h1>
+
+  This platformer game is one of my first projects, created with pure JavaScript and HTML canvas without using any libraries or frameworks. The game is based on a game coding tutorial for python. Play and see if you can beat all 6 levels!
     
   <p><strong>WASD</strong> to move</p>
   <p><strong>SPACE</strong> to jump</p>
